@@ -1,0 +1,7 @@
+{
+  "name": "Chat_examen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
