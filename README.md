@@ -1,4 +1,4 @@
-```
+
 # PracticaExamen
 
 **Autor:** Erick Villarroel  
@@ -84,7 +84,5 @@ Sigue estos pasos para clonar y ejecutar el proyecto localmente:
 
 ---
 
-## Licencia
-
-Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT). ¡Siéntete libre de usarlo y mejorarlo!
+¡Siéntete libre de usarlo y mejorarlo!
 ```
