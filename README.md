@@ -1,4 +1,3 @@
-
 # PracticaExamen
 
 **Autor:** Erick Villarroel  
@@ -18,18 +17,15 @@ Aplicación desarrollada con **Vue.js** y **Firebase** que permite mostrar la ub
 ---
 
 ## Capturas de pantalla
-![WhatsApp Image 2024-11-18 at 00 35 12](https://github.com/user-attachments/assets/e90b6ad0-26a3-4c87-b4f8-9044ccd4a0c2)
 
 ### Inicio de la aplicación
-![WhatsApp Image 2024-11-18 at 00 33 58](https://github.com/user-attachments/assets/ac35580b-7528-4f07-bcf4-7e1dcb654274)
-
+<img src="https://github.com/user-attachments/assets/e90b6ad0-26a3-4c87-b4f8-9044ccd4a0c2" alt="Inicio de la aplicación" width="400">
 
 ### Ubicación en tiempo real
-![WhatsApp Image 2024-11-18 at 00 17 26](https://github.com/user-attachments/assets/6f302226-33fc-47b9-b04f-831516c12243)
-
+<img src="https://github.com/user-attachments/assets/6f302226-33fc-47b9-b04f-831516c12243" alt="Ubicación en tiempo real" width="400">
 
 ### Chat funcional
-
+<img src="https://github.com/user-attachments/assets/ac35580b-7528-4f07-bcf4-7e1dcb654274" alt="Chat funcional" width="400">
 
 ---
 
@@ -41,7 +37,6 @@ Sigue estos pasos para clonar y ejecutar el proyecto localmente:
    ```bash
    git clone https://github.com/usuario/PracticaExamen.git
    cd PracticaExamen
-   ```
 
 2. Instala las dependencias:
    ```bash
