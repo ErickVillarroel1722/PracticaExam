@@ -18,15 +18,18 @@ Aplicación desarrollada con **Vue.js** y **Firebase** que permite mostrar la ub
 ---
 
 ## Capturas de pantalla
+![WhatsApp Image 2024-11-18 at 00 35 12](https://github.com/user-attachments/assets/e90b6ad0-26a3-4c87-b4f8-9044ccd4a0c2)
 
 ### Inicio de la aplicación
-![Inicio de la aplicación](https://github.com/user-attachments/assets/68d21561-965f-40f9-9167-46062a992bdf)
+![WhatsApp Image 2024-11-18 at 00 33 58](https://github.com/user-attachments/assets/ac35580b-7528-4f07-bcf4-7e1dcb654274)
+
 
 ### Ubicación en tiempo real
-![Ubicación en tiempo real](https://github.com/user-attachments/assets/f74c664d-179d-4ea8-ae8a-82083d96b17d)
+![WhatsApp Image 2024-11-18 at 00 17 26](https://github.com/user-attachments/assets/6f302226-33fc-47b9-b04f-831516c12243)
+
 
 ### Chat funcional
-![Chat funcional](https://github.com/user-attachments/assets/4d684600-af74-451f-8e17-382c2f8bad06)
+
 
 ---
 
